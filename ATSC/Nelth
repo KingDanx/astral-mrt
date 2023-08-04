@@ -1,43 +1,42 @@
 {time:01:22}01:22 - |cffaa0000Knock AOE + Dot 15 sec|r - {text}Personals{/text}
-{time:04:18}04:18 - |cffaa0000Knock AOE + Dot 15 sec|r - {text}Personals{/text}
+{time:02:25}02:25 - |cffe68e3dAoE 821k|r - Healthstone {spell:6262} 
+{time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r - {text}Personals{/text} - {spell:441} 
 
-{p:Stormscale}{/p}
+{p:Stormscale}{time:01:53}01:53 - |cffe68e3dAoE 616k|r Stormscale - {spell:374227}
+{time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r Stormscale - {spell:374227}{/p}
 
-{p:Azapriest}{time:00:23}00:23 - |cfff1c232Dot 7/15 sec|r Azapriest - {spell:265202}
-{time:01:16}01:16 - |cffaa0000AoE 411k|r Azapriest - {spell:64843}{/p}
+{p:Azapriest}{time:00:23}00:23 - |cfff1c232Dot 7/15 sec|r Azapriest - {spell:64843}
+{time:01:16}01:16 - |cffaa0000AoE 411k|r Azapriest - {spell:265202}
+{time:01:03,SCC:409313:1}03:49 - |cffaa0000AoE 2 - 275k|r Azapriest - {spell:64843}
+{time:01:33,SCC:409313:1}04:19 - |cffaa0000AoE 3 - 410k|r Azapriest - {spell:265202}{/p}
 
 {p:Nochu}{time:00:16}00:16 - |cffdf9dc3Heart|r - Nochu {spell:197721}
 {time:01:04}01:04 - |cffab8b00Tank Wall Dot|r Nochu - {spell:740}
-{time:01:53}01:53 - |cffe68e3dAoE 616k|r Nochu - {spell:197721}
+{time:01:40}01:40 - |cffab8b00Tank Wall Dot|r Nochu - {spell:197721}
 {time:00:42,SCC:409313:1}03:28 - |cff8811ffBreak Walls|r Nochu - {spell:197721}
-{time:00:57,SCC:409313:1}03:43 - |cff238e47corruption movement|r - {spell:740}{/p}
+{time:00:57,SCC:409313:1}03:43 - |cff238e47corruption movement|r Nochu - {spell:740}
+{time:02:23,SCC:409313:1}05:09 - |cfff1c232Tank Wall Dot|r Nochu - {spell:197721}  
+{time:01:19,SAR:404045:1}06:29 - |cfff1c232DoT 20s|r Nochu - {spell:108281} {spell:740}  
+{time:01:29,SAR:404045:1}06:39 - |cfff1c232DoT 10/20s|r Nochu - {spell:197721}{/p}
 
-{p:Twerkmeout}{time:00:27}00:27 - |cffe6dbc7Tank Wall Dot|r Twerkmeout - {spell:114049}
-{time:01:04}01:04 - |cffab8b00Tank Wall Dot|r Twerkmeout - {spell:108280}
-{time:01:04}01:04 - |cffab8b00Tank Wall Dot|r Twerkmeout - {spell:108281}
-{time:01:53}01:53 - |cffe68e3dAoE 616k|r Twerkmeout - {spell:98008}{/p}
+{p:Twerkmeout}{time:01:04}01:04 - |cffab8b00Tank Wall Dot|r Twerkmeout - {spell:108281}
+{time:01:40}01:40 - |cffab8b00Tank Wall Dot|r Twerkmeout - {spell:114049} - {spell:108280} 
+{time:01:53}01:53 - |cffe68e3dAoE 616k|r Twerkmeout - {spell:98008}
+{time:01:54,SCC:409313:1}04:40 - |cfff1c232Tank Wall Dot|r - {spell:114049} - {spell:108280} - {spell:108281}{/p}
 
-{p:Shamrockin}{/p}
+{p:Shamrockin}{time:01:53}01:53 - |cffe68e3dAoE 616k|r Shamrockin - {spell:374227}
+{time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r Shamrockin - {spell:374227}{/p}
 
-{p:Punhub-Area52}{time:01:16}01:16 - |cffaa0000AoE 411k|r Punhub - {spell:31821}{/p}
+{p:Punhub-Area52}{time:02:25}02:25 - |cffaa0000AoE 411k|r Punhub - {spell:31821}{/p}
 
-{p:Lugress}{/p}
+{p:Lugress}{time:02:25}02:25 - |cffe68e3dAoE 821k|r Lugress - {spell:51052}
+{time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r Lugress - {spell:51052}{/p}
 
-{p:Ekirei}{/p}
+{p:Ekirei}{time:02:25}02:25 - |cffe68e3dAoE 821k|r Ekirei - {spell:51052}
+{time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r Ekirei - {spell:51052}{/p}
 
-{p:Demonicpuff}{/p}
+{p:Demonicpuff}{time:01:53}01:53 - |cffe68e3dAoE 616k|r Demonicpuff - {spell:196718}{/p}
 
 {p:Seitôn}{/p}
 
-{p:Notoriousz}{/p}
-
-{time:01:03,SCC:409313:1}03:49 - |cffaa0000AoE 2 - 275k|r - {spell:114049}  
-{time:01:16,SCC:409313:1}04:02 - |cffdf9dc3Heart|r - {spell:265202}  
-{time:01:26,SCC:409313:1}04:12 - |cfff1c232Tank Wall Dot|r - {spell:31821} {spell:108280} {spell:108281}  
-{time:01:43,SCC:409313:1}04:29 - |cff238e47corruption movement|r - {spell:64843}  
-{time:02:23,SCC:409313:1}05:09 - |cfff1c232Tank Wall Dot|r - {spell:197721}  
-{time:01:19,SAR:404045:1}06:29 - |cfff1c232DoT 20s|r - {spell:108281} {spell:740}  
-{time:01:29,SAR:404045:1}06:39 - |cfff1c232DoT 10/20s|r - {spell:197721}  
-{time:01:36,SAR:404045:1}06:46 - |cffc59a6cTank Hit|r - {spell:31821} {spell:98008}  
-{time:01:49,SAR:404045:1}06:59 - |cfff1c232DoT 20s|r - {spell:108280}  
-{time:01:59,SAR:404045:1}06:59 - |cff555555DoT 10/20s|r - {spell:114049}
+{p:Notoriousz}{time:02:25}02:25 - |cffe68e3dAoE 821k|r Notoriousz - {spell:97462}{/p}
