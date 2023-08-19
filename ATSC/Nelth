@@ -2,7 +2,6 @@
 
 {time:01:22}01:22 - |cffaa0000Knock AOE + Dot 15 sec|r - {text}Personals{/text}
 {time:03:35}03:35 - |cffe68e3dAoE 821k|r - Healthstone {spell:6262} 
-{time:01:16,SCC:409313:1}04:00 - |cffdf9dc3Heart|r |cffff7c0aKewtree|r - {spell:77764}  
 {time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r - {text}Personals{/text} - {spell:441} 
 
 {p:Stormscale}{time:01:50}01:50 - |cffe68e3dAoE 616k|r Stormscale - {spell:374227}
@@ -40,6 +39,12 @@
 
 {p:Demonicpuff}{time:01:50}01:50 - |cffe68e3dAoE 616k|r Demonicpuff - {spell:196718}{/p}
 
-{p:Seitôn}{/p}
+
+{p:Kewtree}{time:01:16,SCC:409313:1}04:00 - |cffdf9dc3Heart|r |cffff7c0aKewtree|r - {spell:77764}  
+{time:05:16}Kewtree POST PORTALS - {spell:77764}
+{time:06:16}Kewtree POST PORTALS - {spell:77764}{/p}
+
+{p:Seitôn}{time:05:00}Seitôn PRE-SPREAD - {spell:192077}
+{time:05:32}Seitôn PRE-SPREAD- {spell:192077}{/p}
 
 {p:Notoriousz}{time:05:10}05:10 - |cffe68e3dAoE 821k|r Notoriousz - {spell:97462}{/p}
