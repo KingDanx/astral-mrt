@@ -1,7 +1,8 @@
-#portals |cfff48cbaSeasonz|r |cff00ff98Emiliamonk|r |cffc41e3aEkirei|r |cffc41e3aLugress|r |cffc69b6dNotoriousz|r |cffa330c9Demonicpuff|r |cfff48cbaAppletrees|r |cff33937fStormscale|r |cff33937fShamrockin|r |cffffffffAzapriest|r |cffffffffGrippii|r |cffffffffKthulu|r |cff8788eeShamelok|r |cff8788eeEvilpeon|r |cff8788eeTwerkme|r |cffff7c0aKewtree|r |cff0070ddTwerkmeout|r |cffff7c0aNochu|r |cff3fc7ebSaylli|r |cffaad372Vallons|r
+#portals |cfff48cbaSeasonz|r |cff00ff98Emiliamonk|r |cffc69b6dNotoriousz|r |cffa330c9Demonicpuff|r |cfff48cbaAppletrees|r |cff0070ddSeitôn|r |cffc41e3aLugress|r |cffc41e3aEkirei|r |cfffff468Thecream|r |cff33937fShamrockin|r |cff33937fStormscale|r |cffffffffKthulu|r |cff8788eeShamelok|r |cff8788eeEvilpeon|r |cff8788eeTwerkme|r |cffffffffAzapriest|r |cffff7c0aKewtree|r |cffff7c0aNochu|r |cff3fc7ebSaylli|r |cffaad372Vallons|r 
 
 {time:01:22}01:22 - |cffaa0000Knock AOE + Dot 15 sec|r - {text}Personals{/text}
 {time:02:25}02:25 - |cffe68e3dAoE 821k|r - Healthstone {spell:6262} 
+{time:01:16,SCC:409313:1}04:00 - |cffdf9dc3Heart|r |cffff7c0aKewtree|r - {spell:77764}  
 {time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r - {text}Personals{/text} - {spell:441} 
 
 {p:Stormscale}{time:01:50}01:50 - |cffe68e3dAoE 616k|r Stormscale - {spell:374227}
@@ -9,7 +10,7 @@
 
 {p:Azapriest}{time:00:23}00:23 - |cfff1c232Dot 7/15 sec|r Azapriest - {spell:64843}
 {time:01:16}01:16 - |cffaa0000AoE 411k|r Azapriest - {spell:265202}
-{time:01:03,SCC:409313:1}03:49 - |cffaa0000AoE 2 - 275k|r Azapriest - {spell:64843}
+{time:01:49}01:49 - |cffaa0000AoE 2 - 275k|r Azapriest - {spell:64843}
 {time:01:33,SCC:409313:1}04:19 - |cffaa0000AoE 3 - 410k|r Azapriest - {spell:265202}{/p}
 
 {p:Nochu}{time:00:16}00:16 - |cffdf9dc3Heart|r - Nochu {spell:197721}
@@ -29,7 +30,7 @@
 {p:Shamrockin}{time:01:50}01:50 - |cffe68e3dAoE 616k|r Shamrockin - {spell:374227}
 {time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r Shamrockin - {spell:374227}{/p}
 
-{p:Appletrees}{time:02:25}02:25 - |cffaa0000AoE 411k|r Appletrees - {spell:31821}{/p}
+{p:Appletrees}{time:04:03}04:03 - |cffaa0000AoE 411k|r Appletrees - {spell:31821}{/p}
 
 {p:Lugress}{time:02:25}02:25 - |cffe68e3dAoE 821k|r Lugress - {spell:51052}
 {time:02:04,SCC:409313:1}04:50 - |cffaa0000AoE 4 - 531k|r Lugress - {spell:51052}{/p}
@@ -41,4 +42,4 @@
 
 {p:Seitôn}{/p}
 
-{p:Notoriousz}{time:02:25}02:25 - |cffe68e3dAoE 821k|r Notoriousz - {spell:97462}{/p}
+{p:Notoriousz}{time:03:32}03:32 - |cffe68e3dAoE 821k|r Notoriousz - {spell:97462}{/p}
