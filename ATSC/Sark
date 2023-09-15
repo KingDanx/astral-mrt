@@ -1,4 +1,4 @@
-BR 1: Blue - Tanks/Hpa/Hpr
+BR 1: Blue - Tanks/Hpa/Hpr/DH/Notoriousz
 BR 2: Circle - Range/Melee/Rdr/Rsh
 BR 3: Mid - N/A
 --
@@ -31,7 +31,7 @@ Pal/DH/War (Evo-backup)
 {time:01:32,SAR:410625:1}03:40 - |cff00ffffKnock Debuff|r Twerkmeout - {spell:108280} {spell:192077}
 {time:00:36,SAA:410654:1}04:28 - |cff7b5d46Bomb Spawn|r Twerkmeout - {spell:114049}{/p}
 
-{p:Nochu}{time:00:32}00:32 - |cff7b5d46Bomb Spawns|r Nochu - {spell:740}
+{p:Nochu}{time:00:39}00:39 - |cff7b5d46Bomb Spawns|r Nochu - {spell:740}
 {time:01:33}01:33 - |cffaa0000aoe 8 sec|r Nochu - {spell:197721}
 {time:00:29,SAR:410625:1}02:37 - |cff00ffffKnock Debuff|r Nochu - {spell:740}
 {time:01:02,SAR:410625:1}03:10 - |cff00ffffKnock Debuff|r Nochu - {spell:197721}{/p}
@@ -47,18 +47,19 @@ Pal/DH/War (Evo-backup)
 
 {p:Thanksgiving}{time:00:41}00:41 - |cff7030a0Breath|r Thanksgiving - {spell:196718}{/p}
 
-{p:Ekirei}{time:00:41}00:41 - |cff7030a0Breath|r Ekirei - {spell:51052}
-{time:00:33,SAR:410625:1}02:41 - |cff0072c6Knock Dispel|r Ekirei - {spell:51052}{/p} 
+{p:Lugress}{time:00:41}00:41 - |cff7030a0Breath|r Lugress - {spell:51052}
+{time:00:33,SAR:410625:1}02:41 - |cff0072c6Knock Dispel|r Lugress - {spell:51052}{/p} 
 
-{p:Lugress}{time:01:24}01:24 - |cfff88379aoe 8 sec|r Lugress - {spell:51052}
-{time:01:08,SAR:410625:1}03:16 - |cff0072c6Knock Dispel|r - {spell:51052}{/p}
+{p:Ekirei}{time:01:24}01:24 - |cfff88379aoe 8 sec|r Ekirei - {spell:51052}
+{time:01:08,SAR:410625:1}03:16 - |cff0072c6Knock Dispel|r Ekirei - {spell:51052}{/p}
 
 {p:Saylli}{time:01:10}01:10 - |cff8811ffDisintegrate|r Saylli - {spell:414660}{/p}
 
 {p:Stormscale}{time:01:24}01:24 - |cfff88379aoe 8 sec|r Stormscale - {spell:374227}
 {time:00:36,SAA:410654:1}04:28 - |cff7b5d46Bomb Spawn|r Stormscale - {spell:374227}{/p}
 
-{p:Shamrockin}{time:01:24}01:24 - |cfff88379aoe 8 sec|r Shamrockin - {spell:374227}
+{p:Shamrockin}{time:00:41}00:41 - |cff7030a0Breath|r Kthulu - {spell:265202}
+{time:01:24}01:24 - |cfff88379aoe 8 sec|r Shamrockin - {spell:374227}
 {time:00:36,SAA:410654:1}04:28 - |cff7b5d46Bomb Spawn|r Shamrockin - {spell:374227}{/p}
 
 {p:Rayaqtbroody}{time:01:24}01:24 - |cfff88379aoe 8 sec|r Rayaqtbroody - {spell:374227}
