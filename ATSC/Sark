@@ -59,7 +59,7 @@ Pal/DH/War (Evo-backup)
 {p:Notoriousz}{time:00:41}00:41 - |cff7030a0Breath|r Notoriousz - {spell:97462}
 {time:01:36,SAA:410654:1}05:28 - |cff7b5d46Bomb Spawn|r Notoriousz - {spell:97462}{/p}
 
-{p:Thanksgiving}{time:00:41}00:41 - |cff7030a0Breath|r Thanksgiving - {spell:196718}
+{p:Thanksgiving}{time:01:29}01:29 - |cff7030a0Breath|r Thanksgiving - {spell:196718}
 {time:02:19,SAA:410654:1}06:11 - |cffe68e3dHide AOE|r Thanksgiving - {spell:196718}{/p}
 
 {p:Lugress}{time:00:41}00:41 - |cff7030a0Breath|r Lugress - {spell:51052}
@@ -71,11 +71,11 @@ Pal/DH/War (Evo-backup)
 {time:01:08,SAR:410625:1}03:16 - |cff0072c6Knock Dispel|r Ekirei - {spell:51052}
 {time:02:39,SAA:410654:1}06:31 - |cffee5555High stacks|r Ekirei - {spell:51052}{/p}
 
-{p:Saylli}{time:01:10}01:10 - |cff8811ffDisintegrate|r Saylli - {spell:414660}
+{p:Saylli}{time:01:29}01:29 - |cff8811ffDisintegrate|r Saylli - {spell:414660}
 {time:00:42,SAA:410654:1}04:34 - |cfff26722Meteor Soak|r Saylli - {spell:414660}
 {time:02:39,SAA:410654:1}06:31 - |cffee5555High stacks|r Saylli - {spell:414660}{/p}
 
-{p:Mainge}{time:01:10}01:10 - |cff8811ffDisintegrate|r Mainge - {spell:414660}
+{p:Mainge}{time:01:29}01:29 - |cff8811ffDisintegrate|r - {spell:414660}
 {time:00:42,SAA:410654:1}04:34 - |cfff26722Meteor Soak|r Mainge - {spell:414660}
 {time:02:39,SAA:410654:1}06:31 - |cffee5555High stacks|r Mainge - {spell:414660}{/p}
 
